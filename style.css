@@ -92,7 +92,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: url("../img/Bomb Proof Coffee Confirmation.jfif");
+    background-image: url("../images/Bomb Proof Coffee Confirmation.jfif");
     position: relative; /* تم إضافته لكي يترتب السكشن بشكل صحيح تحت الهيدر */
   }
 .section1-info{
@@ -464,7 +464,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: url("../img/A Beginner’s Guide to Global Coffee Culture.jfif");
+    background-image: url("../images/A Beginner’s Guide to Global Coffee Culture.jfif");
     background-attachment: fixed;
 }
 .section6-content h2{
@@ -619,7 +619,7 @@ text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: url("../img/Cozy Coffee Moment.jfif");
+    background-image: url("../images/Cozy Coffee Moment.jfif");
     background-attachment: fixed;
 }
 .section8-content-item{
@@ -635,7 +635,7 @@ text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: url("../img/A Beginner’s Guide to Global Coffee Culture.jfif");
+    background-image: url("../images/A Beginner’s Guide to Global Coffee Culture.jfif");
     background-attachment: fixed;
 }
 .section8-parent{
